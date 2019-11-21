@@ -16,6 +16,6 @@ $SCALE-4: 1rem * $RATIO * $RATIO * $RATIO * $RATIO;
 $SCALE-5: 1rem * $RATIO * $RATIO * $RATIO * $RATIO * $RATIO;
 
 $COLOR_LIGHTER: #eaeaea;
-$COLOR_LIGHT: #ccc; // Do not use for text color
-$COLOR_MID: #767676; // Min contrast on white to pass WCAG2 AA
-$COLOR_DARK: #333;
+$COLOR_LIGHT: rgb(179, 179, 179); // Do not use for text color
+$COLOR_MID: #686868; // Min contrast on white to pass WCAG2 AA
+$COLOR_DARK: rgb(16, 16, 16);

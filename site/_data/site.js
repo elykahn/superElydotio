@@ -1,12 +1,12 @@
 module.exports = {
-  name: "Supermaya",
+  name: "superelydotio",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "Striving to bring together the complexities of modern life in a simple, readable blog",
   url: "",
-  authorEmail: "mike@madebymike.com.au",
-  authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
-  postsPerPage: 4,
+  authorEmail: "ely.kahn@gmail.com",
+  authorHandle: "@creativ_ely",
+  authorName: "Ely",
+  postsPerPage: 8,
 
   theme: {
     background: "black",
