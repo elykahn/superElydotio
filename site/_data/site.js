@@ -1,7 +1,7 @@
 module.exports = {
-  name: "superelydotio",
+  name: "ely dot io",
   shortDesc:
-    "Striving to bring together the complexities of modern life in a simple, readable blog",
+    "Just fucking around trying to write and create".
   url: "",
   authorEmail: "ely.kahn@gmail.com",
   authorHandle: "@creativ_ely",
@@ -9,8 +9,8 @@ module.exports = {
   postsPerPage: 8,
 
   theme: {
-    background: "black",
-    text: "white"
+    background: "chsrcoal",
+    text: "ivory"
   },
 
   keystone: {
@@ -21,5 +21,5 @@ module.exports = {
   },
   // Critical CSS results in much slower build times and uses a lot of system resources
   // See `site/transforms/critical-css-transform.js` for more details
-  criticalCSS: false
+  criticalCSS: true
 };
